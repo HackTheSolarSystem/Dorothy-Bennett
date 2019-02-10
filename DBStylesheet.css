@@ -14,7 +14,7 @@ ul {
 li {
   float: left;
   width: 16.6%;
-  font-size: 20px;
+  font-size: 2.9vw;
   text-align: center;
   overflow: auto;
 }
@@ -30,7 +30,9 @@ li a {
 li a:hover {
   background-color: #111;
 }
-/* Indicates what page the user is on */
+/* Indicates what page the user is on, 
+to use just say class="active" in the <a>
+element*/
 .active {
   background-color: grey;
 }
