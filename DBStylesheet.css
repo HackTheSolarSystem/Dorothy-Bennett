@@ -1,0 +1,52 @@
+* {
+  font-family: Palatino !important;
+}
+
+/* Navigation Bar */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+/* Button styling */
+li {
+  float: left;
+  width: 16.6%;
+  font-size: 20px;
+  text-align: center;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/* Hover color */
+li a:hover {
+  background-color: #111;
+}
+/* Indicates what page the user is on */
+.active {
+  background-color: grey;
+}
+/* Changing the font family */
+
+.row {
+ display: flex;
+ flex-wrap: wrap;
+ padding: 0 20 px;
+}
+/* Create two equal columns that sits next to each other */
+.column {
+ flex: 50%;
+ padding: 0 20 px;
+}
+.column img {
+ margin-top: 8px;
+ vertical-align: middle;
+}
