@@ -8,5 +8,5 @@ You can access the site here: https://hackthesolarsystem.github.io/Dorothy-Benne
 * Indira Lopez ([Indira204](https://github.com/Indira204))
 * Liliann Ulysse ([lil-uly](https://github.com/lil-uly))
 * Urszula Solarz ([Urszula23](https://github.com/Urszula23))
-* Yarianny Castillo ([YC09](hhttps://github.com/YC09))
+* Yarianny Castillo ([YC09](https://github.com/YC09))
 * Loralai Falchick ([LoralaiLeora](https://github.com/LoralaiLeora))
